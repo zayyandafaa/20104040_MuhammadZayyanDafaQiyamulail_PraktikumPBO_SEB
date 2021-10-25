@@ -5,17 +5,17 @@ A. Dasar Teori
   	Penamaan identifier harus diawali dengan karakter unicode, tanda $ (dollar) atau tanda _ (underscore). Penamaan identifier ini bersifat casesensitive dan tidak dibatasi        panjang maksimum.
     
  1. Keyword dalam java
-	    Kata kunci adalah identifier yang telah dipesan untuk didefinisikan sebelumnya oleh Java untuk tujuan tertentu. Anda tidak dapat menggunakan keyword sebagai nama variabel,     class, method.
+	Kata kunci adalah identifier yang telah dipesan untuk didefinisikan sebelumnya oleh Java untuk tujuan tertentu. Anda tidak dapat menggunakan keyword sebagai nama 	variabel, class, method.
 	 
  2. Variabel
-	    Variabel adalah item yang digunakan data untuk menyimpan pernyataan objek. Variabel memiliki tipe data dan nama. Tipe data 8 menandakan tipe nilai yang dapat dibentuk oleh    variabel itu sendiri. Nama variabel harus mengikuti aturan untuk identifier. Berikut Aturan penamaan variable : 
+    	Variabel adalah item yang digunakan data untuk menyimpan pernyataan objek. Variabel memiliki tipe data dan nama. Tipe data 8 menandakan tipe nilai yang dapat dibentuk 		oleh variabel itu sendiri. Nama variabel harus mengikuti aturan untuk identifier. Berikut Aturan penamaan variable : 
 	      a. Diawali dengan : huruf/abjad atau karakter mata uang atau underscore 	
 	      b. Terdiri dari huruf/abjad, angka dan underscore 
 	      c. Tidak boleh mengandung karakter khusus atau spasi 
 	      d. Tidak boleh diawali dengan angka
 	
  3. Casting and Promotion
-	    Casting diperlukan untuk mengkonversi dari suatu tipe ke tipe data 	yang lebih kecil panjang bitnya. Sedangkan promotion terjadi pada saat 	mengkonversi dari suatu tipe       data ke tipe data yang lebih panjang bitnya. 
+	Casting diperlukan untuk mengkonversi dari suatu tipe ke tipe data yang lebih kecil panjang bitnya. Sedangkan promotion terjadi pada saat mengkonversi dari suatu 		tipe data ke tipe data yang lebih panjang bitnya. 
 
 B. Penjelasan Kode
 
@@ -47,7 +47,6 @@ B. Penjelasan Kode
           System.out.println("Mati 1 tinggal induknya " +anakAyam);  
   }else {  
          System.out.println("Mati 1 tinggal " +anakAyam);  
-		  }
        }  
     }  
 }
