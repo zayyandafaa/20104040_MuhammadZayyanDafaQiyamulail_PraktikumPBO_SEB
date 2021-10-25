@@ -72,7 +72,7 @@ B. Penjelasan Kode
 		System.out.print("Masukan nilai C" +i+ " = ");  
 		c = input.nextInt();  
 		hasil = a + b - c;  
-		System.out.print("Hasil Dari A " +i+ "+ B " +i+ "- C " +i+ "adalah 		= " +hasil);  
+		System.out.print("Hasil Dari A " +i+ "+ B " +i+ "- C " +i+ "adalah = " +hasil);  
 		System.out.println();  
 		}  
     }  
