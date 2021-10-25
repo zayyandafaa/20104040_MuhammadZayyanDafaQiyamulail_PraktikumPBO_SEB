@@ -2,7 +2,7 @@
 Praktikum Bergerak Orientasi
 
 A. Dasar Teori
-  	Penamaan identifier harus diawali dengan karakter unicode, tanda $ (dollar) atau tanda _ (underscore). Penamaan identifier ini bersifat casesensitive dan tidak dibatasi        panjang maksimum.
+	Penamaan identifier harus diawali dengan karakter unicode, tanda $ (dollar) atau tanda _ (underscore). Penamaan identifier ini bersifat casesensitive dan tidak dibatasi        panjang maksimum.
     
  1. Keyword dalam java
 	Kata kunci adalah identifier yang telah dipesan untuk didefinisikan sebelumnya oleh Java untuk tujuan tertentu. Anda tidak dapat menggunakan keyword sebagai nama 	variabel, class, method.
