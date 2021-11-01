@@ -15,7 +15,7 @@ public class Tabungan {
         return saldo = saldo + jumlah;
     }
 
-    public boolean ambiluang(int jumlah){
+    public boolean ambilUang(int jumlah){
         if (saldo - jumlah < 0){
             return false;
         } else {
